@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 58.579 s <<< FAILURE! - in TestSuite
+verifyTitle(test.HomePage)  Time elapsed: 3.712 s  <<< FAILURE!
+java.lang.AssertionError: expected [Register: Mercury Tours] but found [Register: Mercury Tour]
+	at test.HomePage.verifyTitle(HomePage.java:47)
+
